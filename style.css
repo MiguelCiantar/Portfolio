@@ -1,0 +1,14 @@
+html{
+    background-color: #D2F3F3;
+    text-align: center;
+}
+
+.text-primary{
+    color: #0F4C4C;
+    font-weight: 700;
+}
+
+.text-accent{
+    color: #2A9D8F;
+    font-weight: 600;
+}
